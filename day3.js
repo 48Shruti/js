@@ -11,6 +11,6 @@ var arrayobj= [{
     company : "daviet",
     graduation : "sdm"
 }]
-var graduationList = arrayobj.filter((item)=> 
+// var graduationList = arrayobj.filter((item)=> 
  
-)
+// )
